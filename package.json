@@ -1,0 +1,25 @@
+{
+  "name": "twitter-analytics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "twit": "^2.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadeallencook/Twitter-Analytics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadeallencook/Twitter-Analytics/issues"
+  },
+  "homepage": "https://github.com/jadeallencook/Twitter-Analytics#readme"
+}
